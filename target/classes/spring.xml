@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Beans>
+    <Bean id="userDao" class="com.xxxx.dao.UserDao"></Bean>
+    <Bean id="userService" class="com.xxxx.service.UserService"></Bean>
+
+</Beans>
